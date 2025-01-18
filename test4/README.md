@@ -1,0 +1,1 @@
+该课程的第5次实验，使用test3中自己实现的parallel_for代替heated_plate_openmp中计算量较大的for循环，以及使用MPI的并行应用程序。
