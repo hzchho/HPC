@@ -1,0 +1,559 @@
+desc: --time-unit=B --stacks=yes
+cmd: ./heated_plate_openmp
+time_unit: B
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=16911312
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=222464
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=36384616
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=489856
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=3
+#-----------
+time=58936224
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=796568
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=4
+#-----------
+time=73712592
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=997848
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=5
+#-----------
+time=99547336
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=1347736
+heap_tree=empty
+#-----------
+snapshot=6
+#-----------
+time=129234816
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=1754008
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=7
+#-----------
+time=146637016
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=1991144
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=8
+#-----------
+time=175667808
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=2386656
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=9
+#-----------
+time=206992464
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=2810872
+heap_tree=empty
+#-----------
+snapshot=10
+#-----------
+time=241549792
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=3283928
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=11
+#-----------
+time=263338496
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=3580736
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=12
+#-----------
+time=293115136
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=3986336
+heap_tree=detailed
+n3: 273048 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 10904 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=13
+#-----------
+time=315674072
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=4293688
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=14
+#-----------
+time=343608176
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=4674008
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=15
+#-----------
+time=373609776
+mem_heap_B=272760
+mem_heap_extra_B=2352
+mem_stacks_B=5080056
+heap_tree=empty
+#-----------
+snapshot=16
+#-----------
+time=406107112
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=5522752
+heap_tree=empty
+#-----------
+snapshot=17
+#-----------
+time=432980944
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=5891128
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=18
+#-----------
+time=451483520
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=6143128
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=19
+#-----------
+time=470660864
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=6404248
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=20
+#-----------
+time=490578736
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=6675768
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=21
+#-----------
+time=511426496
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=6959768
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=22
+#-----------
+time=527515784
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=7178984
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=23
+#-----------
+time=549400976
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=7474432
+heap_tree=empty
+#-----------
+snapshot=24
+#-----------
+time=572410848
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=7790320
+heap_tree=empty
+#-----------
+snapshot=25
+#-----------
+time=603451072
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=8212888
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=26
+#-----------
+time=628738960
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=8557528
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=27
+#-----------
+time=655145760
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=8917224
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=28
+#-----------
+time=682654816
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=9291928
+heap_tree=detailed
+n3: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11192 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=29
+#-----------
+time=711056944
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=9676784
+heap_tree=empty
+#-----------
+snapshot=30
+#-----------
+time=725892544
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=9881224
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=31
+#-----------
+time=748009464
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=10179832
+heap_tree=empty
+#-----------
+snapshot=32
+#-----------
+time=778915536
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=10600816
+heap_tree=empty
+#-----------
+snapshot=33
+#-----------
+time=811148640
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=11040312
+heap_tree=empty
+#-----------
+snapshot=34
+#-----------
+time=829099864
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=11286328
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=35
+#-----------
+time=863606320
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=11756248
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=36
+#-----------
+time=881372240
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=11998328
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=37
+#-----------
+time=899520736
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=12245384
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=38
+#-----------
+time=918029408
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=12497392
+heap_tree=detailed
+n3: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11480 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=39
+#-----------
+time=936918448
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=12754648
+heap_tree=detailed
+n3: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 131072 0x1097DF: main (heated_plate_openmp.c:98)
+ n0: 131072 0x109801: main (heated_plate_openmp.c:99)
+ n0: 11768 in 13 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=40
+#-----------
+time=956180056
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=13016888
+heap_tree=detailed
+n1: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273624 in 15 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=41
+#-----------
+time=975625376
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=13280104
+heap_tree=empty
+#-----------
+snapshot=42
+#-----------
+time=995456336
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=13550656
+heap_tree=empty
+#-----------
+snapshot=43
+#-----------
+time=1015739424
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=13825904
+heap_tree=empty
+#-----------
+snapshot=44
+#-----------
+time=1036339248
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=14106288
+heap_tree=empty
+#-----------
+snapshot=45
+#-----------
+time=1057482152
+mem_heap_B=272760
+mem_heap_extra_B=2352
+mem_stacks_B=14394624
+heap_tree=empty
+#-----------
+snapshot=46
+#-----------
+time=1078918832
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=14686584
+heap_tree=empty
+#-----------
+snapshot=47
+#-----------
+time=1100900216
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=14987960
+heap_tree=empty
+#-----------
+snapshot=48
+#-----------
+time=1136370472
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=15470824
+heap_tree=detailed
+n1: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273624 in 15 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=49
+#-----------
+time=1146038304
+mem_heap_B=273048
+mem_heap_extra_B=2360
+mem_stacks_B=15602320
+heap_tree=empty
+#-----------
+snapshot=50
+#-----------
+time=1147934984
+mem_heap_B=273624
+mem_heap_extra_B=2376
+mem_stacks_B=15628312
+heap_tree=detailed
+n1: 273624 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273624 in 15 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=51
+#-----------
+time=1159673824
+mem_heap_B=273336
+mem_heap_extra_B=2368
+mem_stacks_B=15787768
+heap_tree=detailed
+n1: 273336 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273336 in 15 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=52
+#-----------
+time=1171426032
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=15947928
+heap_tree=detailed
+n1: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273912 in 15 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=53
+#-----------
+time=1183370384
+mem_heap_B=273912
+mem_heap_extra_B=2384
+mem_stacks_B=16110808
+heap_tree=peak
+n1: 273912 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n0: 273912 in 15 places, all below massif's threshold (1.00%)
