@@ -5,4 +5,5 @@ test1:MPI<br>
 test2:Pthread<br>
 test3:OpenMP<br>
 test4:OpenMP Application<br>
-test5:CUDA
+test5:CUDA<br>
+如有帮助请留下个star吧❤
